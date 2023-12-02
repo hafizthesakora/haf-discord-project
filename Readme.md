@@ -1,4 +1,6 @@
-This project was built by Hafiz Toyyib using MERN stack
+# Hafiz Discord Project
+
+### This project was built by Hafiz Toyyib using MERN stack
 
 ## Server Side
 
@@ -36,6 +38,8 @@ React.js is the most popular front-end javascript library for building web appli
 . React is fast, scalable, and simple
 . Easy to learn for beginner developers
 . Allow to develop fast user interfaces
+
+The project is incomplete however
 
 ## First Module
 
